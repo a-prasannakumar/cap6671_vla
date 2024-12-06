@@ -1,0 +1,321 @@
+Task suite: libero_spatial
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 1...
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 2...
+Success: False
+# episodes completed so far: 2
+# successes: 1 (50.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 3...
+Success: True
+# episodes completed so far: 3
+# successes: 2 (66.7%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 4
+# successes: 3 (75.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 5...
+Success: True
+# episodes completed so far: 5
+# successes: 4 (80.0%)
+Current task success rate: 0.8
+Current total success rate: 0.8
+
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Starting episode 1...
+Success: True
+# episodes completed so far: 6
+# successes: 5 (83.3%)
+
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Starting episode 2...
+Success: True
+# episodes completed so far: 7
+# successes: 6 (85.7%)
+
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Starting episode 3...
+Success: True
+# episodes completed so far: 8
+# successes: 7 (87.5%)
+
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 9
+# successes: 8 (88.9%)
+
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Starting episode 5...
+Success: True
+# episodes completed so far: 10
+# successes: 9 (90.0%)
+Current task success rate: 1.0
+Current total success rate: 0.9
+
+Task: pick up the black bowl from table center and place it on the plate
+Starting episode 1...
+Success: False
+# episodes completed so far: 11
+# successes: 9 (81.8%)
+
+Task: pick up the black bowl from table center and place it on the plate
+Starting episode 2...
+Success: True
+# episodes completed so far: 12
+# successes: 10 (83.3%)
+
+Task: pick up the black bowl from table center and place it on the plate
+Starting episode 3...
+Success: True
+# episodes completed so far: 13
+# successes: 11 (84.6%)
+
+Task: pick up the black bowl from table center and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 14
+# successes: 12 (85.7%)
+
+Task: pick up the black bowl from table center and place it on the plate
+Starting episode 5...
+Success: False
+# episodes completed so far: 15
+# successes: 12 (80.0%)
+Current task success rate: 0.6
+Current total success rate: 0.8
+
+Task: pick up the black bowl on the cookie box and place it on the plate
+Starting episode 1...
+Success: True
+# episodes completed so far: 16
+# successes: 13 (81.2%)
+
+Task: pick up the black bowl on the cookie box and place it on the plate
+Starting episode 2...
+Success: True
+# episodes completed so far: 17
+# successes: 14 (82.4%)
+
+Task: pick up the black bowl on the cookie box and place it on the plate
+Starting episode 3...
+Success: True
+# episodes completed so far: 18
+# successes: 15 (83.3%)
+
+Task: pick up the black bowl on the cookie box and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 19
+# successes: 16 (84.2%)
+
+Task: pick up the black bowl on the cookie box and place it on the plate
+Starting episode 5...
+Success: False
+# episodes completed so far: 20
+# successes: 16 (80.0%)
+Current task success rate: 0.8
+Current total success rate: 0.8
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Starting episode 1...
+Success: True
+# episodes completed so far: 21
+# successes: 17 (81.0%)
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Starting episode 2...
+Success: False
+# episodes completed so far: 22
+# successes: 17 (77.3%)
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Starting episode 3...
+Success: True
+# episodes completed so far: 23
+# successes: 18 (78.3%)
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 24
+# successes: 19 (79.2%)
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Starting episode 5...
+Success: True
+# episodes completed so far: 25
+# successes: 20 (80.0%)
+Current task success rate: 0.8
+Current total success rate: 0.8
+
+Task: pick up the black bowl on the ramekin and place it on the plate
+Starting episode 1...
+Success: True
+# episodes completed so far: 26
+# successes: 21 (80.8%)
+
+Task: pick up the black bowl on the ramekin and place it on the plate
+Starting episode 2...
+Success: True
+# episodes completed so far: 27
+# successes: 22 (81.5%)
+
+Task: pick up the black bowl on the ramekin and place it on the plate
+Starting episode 3...
+Success: True
+# episodes completed so far: 28
+# successes: 23 (82.1%)
+
+Task: pick up the black bowl on the ramekin and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 29
+# successes: 24 (82.8%)
+
+Task: pick up the black bowl on the ramekin and place it on the plate
+Starting episode 5...
+Success: True
+# episodes completed so far: 30
+# successes: 25 (83.3%)
+Current task success rate: 1.0
+Current total success rate: 0.8333333333333334
+
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Starting episode 1...
+Success: True
+# episodes completed so far: 31
+# successes: 26 (83.9%)
+
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Starting episode 2...
+Success: True
+# episodes completed so far: 32
+# successes: 27 (84.4%)
+
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Starting episode 3...
+Success: True
+# episodes completed so far: 33
+# successes: 28 (84.8%)
+
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 34
+# successes: 29 (85.3%)
+
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Starting episode 5...
+Success: True
+# episodes completed so far: 35
+# successes: 30 (85.7%)
+Current task success rate: 1.0
+Current total success rate: 0.8571428571428571
+
+Task: pick up the black bowl on the stove and place it on the plate
+Starting episode 1...
+Success: True
+# episodes completed so far: 36
+# successes: 31 (86.1%)
+
+Task: pick up the black bowl on the stove and place it on the plate
+Starting episode 2...
+Success: True
+# episodes completed so far: 37
+# successes: 32 (86.5%)
+
+Task: pick up the black bowl on the stove and place it on the plate
+Starting episode 3...
+Success: False
+# episodes completed so far: 38
+# successes: 32 (84.2%)
+
+Task: pick up the black bowl on the stove and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 39
+# successes: 33 (84.6%)
+
+Task: pick up the black bowl on the stove and place it on the plate
+Starting episode 5...
+Success: True
+# episodes completed so far: 40
+# successes: 34 (85.0%)
+Current task success rate: 0.8
+Current total success rate: 0.85
+
+Task: pick up the black bowl next to the plate and place it on the plate
+Starting episode 1...
+Success: True
+# episodes completed so far: 41
+# successes: 35 (85.4%)
+
+Task: pick up the black bowl next to the plate and place it on the plate
+Starting episode 2...
+Success: True
+# episodes completed so far: 42
+# successes: 36 (85.7%)
+
+Task: pick up the black bowl next to the plate and place it on the plate
+Starting episode 3...
+Success: False
+# episodes completed so far: 43
+# successes: 36 (83.7%)
+
+Task: pick up the black bowl next to the plate and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 44
+# successes: 37 (84.1%)
+
+Task: pick up the black bowl next to the plate and place it on the plate
+Starting episode 5...
+Success: False
+# episodes completed so far: 45
+# successes: 37 (82.2%)
+Current task success rate: 0.6
+Current total success rate: 0.8222222222222222
+
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Starting episode 1...
+Success: False
+# episodes completed so far: 46
+# successes: 37 (80.4%)
+
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Starting episode 2...
+Success: True
+# episodes completed so far: 47
+# successes: 38 (80.9%)
+
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Starting episode 3...
+Success: True
+# episodes completed so far: 48
+# successes: 39 (81.2%)
+
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Starting episode 4...
+Success: True
+# episodes completed so far: 49
+# successes: 40 (81.6%)
+
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Starting episode 5...
+Success: True
+# episodes completed so far: 50
+# successes: 41 (82.0%)
+Current task success rate: 0.8
+Current total success rate: 0.82
