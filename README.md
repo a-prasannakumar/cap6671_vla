@@ -19,7 +19,6 @@ pip install packaging ninja
 ninja --version; echo $?  # Verify Ninja --> should return exit code "0"
 
 # Install flash_attn
-option 1:
 cd slurm_install
 sbatch install_vla_flashattn.sh
 
