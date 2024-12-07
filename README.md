@@ -22,7 +22,7 @@ ninja --version; echo $?  # Verify Ninja --> should return exit code "0"
 cd slurm_install
 sbatch install_vla_flashattn.sh
 
-install_vla_flashattn.sh would do the following:
+# Install_vla_flashattn.sh would do the following:
 module load cuda
 pip install "flash-attn==2.5.5" --no-build-isolation
 ```
