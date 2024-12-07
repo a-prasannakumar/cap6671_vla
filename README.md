@@ -14,9 +14,17 @@ git clone https://github.com/openvla/openvla.git
 cd openvla
 pip install -e .
 
-# Install Flash Attention 2 for training (https://github.com/Dao-AILab/flash-attention)
+# Install ninja
 pip install packaging ninja
 ninja --version; echo $?  # Verify Ninja --> should return exit code "0"
+
+# Install flash_attn
+option 1:
+cd slurm_install
+sbatch install_vla_flashattn.sh
+
+install_vla_flashattn.sh would do the following:
+module load cuda
 pip install "flash-attn==2.5.5" --no-build-isolation
 ```
 
@@ -56,6 +64,7 @@ pip install -e .
 ```
 sudo apt install ffmpeg
 ```
+Since I didn't have root access, it was done manually.
 
 ```
 pip install tensorflow==2.15.0
@@ -69,9 +78,23 @@ pip install git+https://github.com/nathanrooy/simulated-annealing
 ```
 
 ```
+# Install torch
+cd slurm_install
+sbatch install_vla_torch.sh
+
+install_vla_torch.sh would do the following:
+module load cuda
 pip install torch==2.3.1 torchvision==0.18.1 timm==0.9.10 tokenizers==0.15.2 accelerate==0.32.1
+
+# Install flash_attn
+cd slurm_install
+sbatch install_simpler_flashattn.sh
+
+install_simpler_flashattn.sh would do the following:
+module load cuda
 pip install flash-attn==2.6.1 --no-build-isolation
 ```
+
 ## LIBERO
 Clone and install the [LIBERO repo](https://github.com/Lifelong-Robot-Learning/LIBERO):
 
