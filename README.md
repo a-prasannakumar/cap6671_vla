@@ -61,13 +61,11 @@ cd {this_repo}
 pip install -e .
 ```
 
-# Since I didn't have root access, it was done manually.
-# https://superuser.com/questions/821844/use-ffmpeg-on-linux-without-administrative-rights
+Since I didn't have root access, ffmpeg was installed manually.
+https://superuser.com/questions/821844/use-ffmpeg-on-linux-without-administrative-rights
 ```
 sudo apt install ffmpeg
 ```
-
-
 ```
 pip install tensorflow==2.15.0
 pip install -r requirements_full_install.txt
